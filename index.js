@@ -9,8 +9,8 @@ client.on('ready', () => {
                 details: config.text,
 
                 assets: {
-                    large_image: config.pic,
-                    large_text: config.pictext
+                    large_image: config.picture,
+                    large_text: config.picturetext
                 },
 
                 buttons: [{
@@ -27,6 +27,6 @@ client.on('ready', () => {
         })
     }),
     client.login({
-        clientId: config.appid
+        clientId: config.clientid
     })
     console.log("Sucessfully enabled Discord Rich Presence!")

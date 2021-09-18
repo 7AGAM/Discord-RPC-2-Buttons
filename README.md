@@ -12,3 +12,6 @@ A custom Discord rich presnece with 2 buttons!
 4. Open the config.json file and fill in your datas
 5. Navigate to the folder in your command prompt and run the command: **npm i**
 6. Start the code with **node index.js** in the command prompt *or* open the **start.bat** file
+
+# Important
+You have to use both buttons! If you just want only one button, go to my Github profile and look for Discord RPC 1 button.

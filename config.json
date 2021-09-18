@@ -1,8 +1,8 @@
 {
-    "appid": "", 
+    "clientid": "", 
     
-    "pic": "", 
-    "pictext": "", 
+    "picture": "", 
+    "picturetext": "", 
     "text": "", 
     "button1text" : "", 
     "button1link" : "", 

@@ -1,14 +1,14 @@
 {
-    "appid": "", //Your application client ID 
+    "appid": "", 
     
-    "pic": "", //Your picture
-    "pictext": "", //Your picture text
-    "text": "", //Your info text
-    "button1text" : "", //Your button text
-    "button1link" : "", //Your button link
+    "pic": "", 
+    "pictext": "", 
+    "text": "", 
+    "button1text" : "", 
+    "button1link" : "", 
 
-    "button2text": "", //Your button text
-    "button2link": "" //Your button link
+    "button2text": "", 
+    "button2link": "" 
 }
 
 //You have to use both buttons! If you just want only one button, go to my Github profile and look for Discord RPC 1 button.
